@@ -1,0 +1,12 @@
+>> PROGRAMA 
+	Usuario "admin"
+	Constraseña "diego"
+>>XAMPP
+	Usuario "root"
+	Constraseña vacía
+
+>> Es necesario tener corriendo el server XAMPP antes de iniciar la app ya que si nó dará fallos a la hora de las acciones principales (Xampp usado v3.2.4 )
+>> La base de datos deberá ser importada al sever para que funcione corrrectamente 
+>> Para crear facturas y recibos es necesario tener creados anteriormente clientes (hay algunos de ejemplo)
+>> A a hora de los reportes tuve que instalar el Ireport con algunos problemas de versiones 
+>> A la hora de crear los reportes al llamarse desde la ventana principal si cierras los reportes se cierra la App 
